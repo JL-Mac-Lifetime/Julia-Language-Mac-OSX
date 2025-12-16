@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/31228/m/julia-logo.png?v=1670918617" width="200" alt="Julia Language application icon"><br>
+<img src="https://global.discourse-cdn.com/julialang/optimized/3X/0/6/06737494aa19813e1ea28e540293749fa3d063b2_2_500x500.png" width="200" alt="Julia Language application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/julia-language">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Julia Language macOS product page">
 </a><br><br>
